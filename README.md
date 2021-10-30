@@ -1,4 +1,4 @@
-# Website Cloning || HTML, CSS, JS, Bootstrap Practice
+# Landing Page Cloning || HTML, CSS, JS, Bootstrap Practice
 
 Responsive web app made using HTML5, CSS3, Bootstrap and JS.
 
